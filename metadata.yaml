@@ -1,5 +1,8 @@
 _repo: Renascence-A-Book-of-Verse_53787
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53787-h/images/cover.jpg
 creator:
   author:
     agent_name: Crane, Walter
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7195
     wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53787#Renascence-A-Book-of-Verse
 gutenberg_issued: '2016-12-22'
 gutenberg_type: Text
 identifiers:
